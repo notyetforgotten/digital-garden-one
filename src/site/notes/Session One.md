@@ -85,4 +85,4 @@ in subtraction, you have R2 meeting R head to head and R1 tail to tail
 - there are two coordinate systems
 	- polar coordinates imitate the (partial) formation of a circle (theta, r)
 	- cartesian coordinates are the system we are used to (x, y)
-![Screenshot 2024-06-14 at 9.08.09 PM.png](/img/user/Screenshot%202024-06-14%20at%209.08.09%20PM.png)
+![Screenshot 2024-06-14 at 9.08.09 PM.png](/img/user/Screenshot%202024-06-14%20at%209.08.09%20PM.png)![Screenshot 2024-06-14 at 9.10.58 PM.png](/img/user/Screenshot%202024-06-14%20at%209.10.58%20PM.png)
