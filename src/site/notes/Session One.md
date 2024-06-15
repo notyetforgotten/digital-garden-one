@@ -69,6 +69,14 @@ relating law of cosines to pythag: cos C = 0 when C is 90
 law of sines can be related to triangle inequality
 ![Screenshot 2024-06-14 at 8.54.24 PM.png](/img/user/Screenshot%202024-06-14%20at%208.54.24%20PM.png)
 use linear pairs / 45-90-0-135-180 degree angles to find angle C (you are given a and b)
+this can be seen as an addition of slopes
+![Screenshot 2024-06-14 at 9.05.51 PM.png](/img/user/Screenshot%202024-06-14%20at%209.05.51%20PM.png)
+||![Screenshot 2024-06-14 at 9.07.44 PM.png](/img/user/Screenshot%202024-06-14%20at%209.07.44%20PM.png)
+||
+![Screenshot 2024-06-14 at 9.02.12 PM.png](/img/user/Screenshot%202024-06-14%20at%209.02.12%20PM.png)
+think of this as a subtraction of slopes
+in subtraction, you have R2 meeting R head to head and R1 tail to tail
+
 **Review**
 - be mindful of your understanding; it is crucial to your performance in this class
 - frames of reference describe distance from a certain point using one of two coordinate systems
@@ -77,3 +85,4 @@ use linear pairs / 45-90-0-135-180 degree angles to find angle C (you are given 
 - there are two coordinate systems
 	- polar coordinates imitate the (partial) formation of a circle (theta, r)
 	- cartesian coordinates are the system we are used to (x, y)
+![Screenshot 2024-06-14 at 9.08.09 PM.png](/img/user/Screenshot%202024-06-14%20at%209.08.09%20PM.png)
